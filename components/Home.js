@@ -10,7 +10,6 @@ function Home() {
         alt="Light"
         width={128}
         height={128}
-        id="switch"
         className={styles.switch}
       />
       <DarkStatus />
